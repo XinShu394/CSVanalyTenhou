@@ -30,10 +30,11 @@ pip install -r requirements.txt
 ## 使用方法
 
 1. 准备天凤牌谱CSV文件
+   -https://nodocchi.moe/tenhoulog/ 搜索名字-选项-导出csv
    - 从天凤平台导出个人对局记录CSV文件
-   - 将CSV文件放在`示例csv`文件夹中
+   - 把csv保存在这个项目同一个文件夹里
 
-2. 运行主程序：
+3. 运行主程序：
 ```bash
 python csv数据分析.py
 ```
@@ -61,6 +62,7 @@ python csv数据分析.py
 - 详细指标
 - PT统计（如有）
 - Rate统计（如有）
+![image](https://github.com/user-attachments/assets/46af4fdc-9853-454d-bdfa-30fb8c68b213)
 
 ### 图表分析
 以选项卡形式展示各种可视化图表：
